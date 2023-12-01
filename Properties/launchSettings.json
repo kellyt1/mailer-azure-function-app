@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "mailer_azure_function_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7137",
+      "launchBrowser": false
+    }
+  }
+}
